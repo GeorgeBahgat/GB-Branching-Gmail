@@ -1,0 +1,17 @@
+C:\Users\George\Desktop\GB Branching Gmail\GB Branching Gmail\bin\Debug\GB Branching Gmail.exe.config
+C:\Users\George\Desktop\GB Branching Gmail\GB Branching Gmail\bin\Debug\GB Branching Gmail.exe
+C:\Users\George\Desktop\GB Branching Gmail\GB Branching Gmail\bin\Debug\GB Branching Gmail.pdb
+C:\Users\George\Desktop\GB Branching Gmail\GB Branching Gmail\bin\Debug\GB Branching Gmail.xml
+C:\Users\George\Desktop\GB Branching Gmail\GB Branching Gmail\obj\Debug\GB Branching Gmail.vbproj.AssemblyReference.cache
+C:\Users\George\Desktop\GB Branching Gmail\GB Branching Gmail\obj\Debug\GB Branching Gmail.vbproj.SuggestedBindingRedirects.cache
+C:\Users\George\Desktop\GB Branching Gmail\GB Branching Gmail\obj\Debug\GB_Branching_Gmail.Form1.resources
+C:\Users\George\Desktop\GB Branching Gmail\GB Branching Gmail\obj\Debug\GB_Branching_Gmail.Resources.resources
+C:\Users\George\Desktop\GB Branching Gmail\GB Branching Gmail\obj\Debug\GB Branching Gmail.vbproj.GenerateResource.cache
+C:\Users\George\Desktop\GB Branching Gmail\GB Branching Gmail\obj\Debug\GB Branching Gmail.vbproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\GB Branching Gmail\GB Branching Gmail\obj\Debug\GB Branching Gmail.exe
+C:\Users\George\Desktop\GB Branching Gmail\GB Branching Gmail\obj\Debug\GB Branching Gmail.xml
+C:\Users\George\Desktop\GB Branching Gmail\GB Branching Gmail\obj\Debug\GB Branching Gmail.pdb
+C:\Users\George\Desktop\GB Branching Gmail\GB Branching Gmail\bin\Debug\SQLABC_ModernUI.dll
+C:\Users\George\Desktop\GB Branching Gmail\GB Branching Gmail\obj\Debug\GB Branching Gmail.vbproj.CopyComplete
+C:\Users\George\Desktop\GB Branching Gmail\GB Branching Gmail\bin\Debug\SkinSoft.VisualStyler.dll
+C:\Users\George\Desktop\GB Branching Gmail\GB Branching Gmail\bin\Debug\SkinSoft.VisualStyler.xml
